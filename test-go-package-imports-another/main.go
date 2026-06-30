@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"utilfun/utilfun"
+	"mod_second/utilfun"
 )
 
 func main() {

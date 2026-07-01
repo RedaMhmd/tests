@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-
-	"mod_second/utilfun"
 )
 
 func main() {

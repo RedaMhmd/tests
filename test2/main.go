@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"ttt/utilfun"
+	"tt/utilfun"
 )
 
 func main() {
-	fmt.Println(utilfun.Sum(4, 410))
+	fmt.Println(utilfun.Sum(10, 6))
 }
